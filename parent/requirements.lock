@@ -1,0 +1,12 @@
+dependencies:
+- name: child1
+  repository: file://../child1
+  version: 1.0.0
+- name: child2
+  repository: file://../child2
+  version: 1.0.0
+- name: child3
+  repository: file://../child3
+  version: 1.0.0
+digest: sha256:137f90ee04c15539a5ae9e6e32c79b41dad17ef100fb82106887b1cc9847090f
+generated: 2018-03-05T17:35:28.277866-05:00

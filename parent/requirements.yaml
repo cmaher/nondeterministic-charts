@@ -1,0 +1,11 @@
+dependencies:
+- name: child1
+  repository: file://../child1
+  version: "*"
+- name: child2
+  repository: file://../child2
+  version: "*"
+- name: child3
+  repository: file://../child3
+  version: "*"
+
